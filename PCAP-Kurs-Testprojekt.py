@@ -1,4 +1,12 @@
-#Test
+# Part A
+# das ist ein Text, zum Ausprobieren von Github mit mehreren Personen
+# das ist ein Text, zum Ausprobieren von Github mit mehreren Personen
 
-# Noch ein test, von Ralf
-print("hallo", end='#')
+# Part B
+# das ist ein Text, zum Ausprobieren von Github mit mehreren Personen
+# das ist ein Text, zum Ausprobieren von Github mit mehreren Personen
+
+
+# Part C
+# das ist ein Text, zum Ausprobieren von Github mit mehreren Personen
+# das ist ein Text, zum Ausprobieren von Github mit mehreren Personen
